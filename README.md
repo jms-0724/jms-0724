@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jms-0724
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... ASP.NET
+- 🌱 I’m currently learning ...   PHP
 - 💞️ I’m looking to collaborate on ... Improvements on code
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He
