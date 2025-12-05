@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ...   PHP, Javascript, C# and Python
 - 💞️ I’m looking to collaborate on ... Improvements on code
-- 📫 How to reach me ...
+- 📫 How to reach me ... email jamesadamorcastillo@gmail.com
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ...
 
